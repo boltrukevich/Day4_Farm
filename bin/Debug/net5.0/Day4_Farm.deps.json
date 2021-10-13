@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Day4_Farm/1.0.0": {
+        "runtime": {
+          "Day4_Farm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Day4_Farm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

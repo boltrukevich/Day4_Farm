@@ -1,0 +1,16 @@
+C:\Users\amfib\source\repository\Day4_Farm\Day4_Farm\bin\Debug\net5.0\Day4_Farm.exe
+C:\Users\amfib\source\repository\Day4_Farm\Day4_Farm\bin\Debug\net5.0\Day4_Farm.deps.json
+C:\Users\amfib\source\repository\Day4_Farm\Day4_Farm\bin\Debug\net5.0\Day4_Farm.runtimeconfig.json
+C:\Users\amfib\source\repository\Day4_Farm\Day4_Farm\bin\Debug\net5.0\Day4_Farm.runtimeconfig.dev.json
+C:\Users\amfib\source\repository\Day4_Farm\Day4_Farm\bin\Debug\net5.0\Day4_Farm.dll
+C:\Users\amfib\source\repository\Day4_Farm\Day4_Farm\bin\Debug\net5.0\ref\Day4_Farm.dll
+C:\Users\amfib\source\repository\Day4_Farm\Day4_Farm\bin\Debug\net5.0\Day4_Farm.pdb
+C:\Users\amfib\source\repository\Day4_Farm\Day4_Farm\obj\Debug\net5.0\Day4_Farm.csproj.AssemblyReference.cache
+C:\Users\amfib\source\repository\Day4_Farm\Day4_Farm\obj\Debug\net5.0\Day4_Farm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amfib\source\repository\Day4_Farm\Day4_Farm\obj\Debug\net5.0\Day4_Farm.AssemblyInfoInputs.cache
+C:\Users\amfib\source\repository\Day4_Farm\Day4_Farm\obj\Debug\net5.0\Day4_Farm.AssemblyInfo.cs
+C:\Users\amfib\source\repository\Day4_Farm\Day4_Farm\obj\Debug\net5.0\Day4_Farm.csproj.CoreCompileInputs.cache
+C:\Users\amfib\source\repository\Day4_Farm\Day4_Farm\obj\Debug\net5.0\Day4_Farm.dll
+C:\Users\amfib\source\repository\Day4_Farm\Day4_Farm\obj\Debug\net5.0\ref\Day4_Farm.dll
+C:\Users\amfib\source\repository\Day4_Farm\Day4_Farm\obj\Debug\net5.0\Day4_Farm.pdb
+C:\Users\amfib\source\repository\Day4_Farm\Day4_Farm\obj\Debug\net5.0\Day4_Farm.genruntimeconfig.cache
